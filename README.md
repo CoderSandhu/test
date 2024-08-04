@@ -1,1 +1,2 @@
 # test
+A Spotify clone is a music streaming application designed to mimic Spotify’s core features. It allows users to stream songs, create and manage playlists, discover new music, and access a wide library of tracks. Key features typically include user accounts, search functionality, personalized recommendations, social sharing, and offline listening. Technically, it involves backend infrastructure for managing data and streaming, frontend design for user interaction, and adherence to music licensing laws.
